@@ -1,0 +1,19 @@
+{
+  "name": "rat_server",
+  "version": "1.0.0",
+  "description": "A server build for beginners.No DATABASE required.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Tanwar <mr.rahultanwar@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "object-path": "^0.11.4",
+    "simple-json-formatter": "^1.0.2"
+  }
+}
