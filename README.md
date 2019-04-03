@@ -1,6 +1,6 @@
 # RAT-Server
 
-%POSTMAN - Rat server collection add from - https://www.getpostman.com/collections/6ee942b6e26e3d98fd3d %
+POSTMAN - Rat server collection add from - https://www.getpostman.com/collections/6ee942b6e26e3d98fd3d 
 
 
 Node Server which works without DB , its like offline offline firebase
